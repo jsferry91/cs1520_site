@@ -1,4 +1,4 @@
-/* Changes created by Jordan Ferry on 4/22/14
+/* Changes created by Jordan Ferry (jsf32) on 4/22/14
    Description of Changes:  Added variables to the HTML5 local storage
    to keep track of which sections of the web page were open during the
    last visit to the site. This way if a user clicks a link from the 
